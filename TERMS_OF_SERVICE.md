@@ -1,79 +1,55 @@
 # Hizmet Şartları
 
-**Son Güncelleme:** 2024
+**Son Güncelleme:** 27 Aralık 2025
 
-Bu Hizmet Şartları ("Şartlar"), Hesap Rehberim uygulamasının ("Uygulama", "Hizmet", "Biz", "Bizim") kullanımını yönetir. Uygulamayı kullanarak, bu Şartları kabul etmiş sayılırsınız.
+Bu Hizmet Şartları ("Şartlar"), Hesap Rehberim uygulamasının ("Uygulama") kullanımını düzenler. Uygulamayı indirerek veya kullanarak bu Şartları kabul etmiş sayılırsınız.
 
 ## 1. Hizmetin Kullanımı
 
-### 1.1. Kullanım Koşulları
-Hesap Rehberim uygulaması, kişisel ve ticari olmayan amaçlarla kullanım için ücretsiz olarak sağlanmaktadır.
+### 1.1. Amaç
+Uygulama, hesap makinesi ve dönüştürücü araçlar sağlar. Uygulama, ücretsiz olarak sunulabilir ve bazı ekranlarda reklam gösterebilir.
 
-### 1.2. Kullanım Kısıtlamaları
-Uygulamayı aşağıdaki durumlarda kullanamazsınız:
-- Yasadışı amaçlar için
-- Başkalarının haklarını ihlal etmek için
-- Uygulamanın güvenliğini veya işleyişini bozmak için
-- Otomatik sistemler (botlar, crawler'lar) ile kullanmak için
-- Uygulamanın kaynak kodunu kopyalamak, değiştirmek veya dağıtmak için
+### 1.2. Kısıtlamalar
+Uygulamayı şu amaçlarla kullanamazsınız:
 
-## 2. Hesaplama Sonuçları
+- Yasadışı faaliyetler
+- Başkalarının haklarını ihlal etme
+- Uygulamanın güvenliğini/işleyişini bozma (reverse engineering, saldırı, kötüye kullanım)
+- Otomatik sistemlerle aşırı kullanım (bot/crawler) veya hizmeti engelleyecek davranışlar
+- Uygulama içeriğini ve kaynak kodunu yetkisiz kopyalama, dağıtma veya ticari amaçla kullanma
 
-### 2.1. Doğruluk
-Uygulama, hesaplama sonuçlarını doğru göstermek için çaba gösterir, ancak:
-- Sonuçların doğruluğu garanti edilmez
-- Önemli finansal veya tıbbi kararlar için kullanılmamalıdır
-- Para birimi dönüştürücü sonuçları, gerçek zamanlı kurlara dayanır ancak kesin değildir
+## 2. Sonuçlar ve Sorumluluk Reddi
 
-### 2.2. Sorumluluk Reddi
-Uygulama, hesaplama sonuçlarından kaynaklanan herhangi bir zarardan sorumlu değildir.
+Uygulama, sonuçları doğru üretmek için çaba gösterir; ancak:
 
-## 3. Fikri Mülkiyet
+- Sonuçların doğruluğu ve kesintisiz erişim **garanti edilmez**
+- Sağlık/finans gibi alanlarda çıkan sonuçlar **profesyonel tavsiye değildir**
+- Uygulama kullanımı nedeniyle doğabilecek doğrudan/dolaylı zararlardan, yürürlükteki hukuk izin verdiği ölçüde, sorumluluk kabul edilmez
 
-### 3.1. Telif Hakkı
-Uygulama ve içeriği, telif hakkı ve diğer fikri mülkiyet yasaları ile korunmaktadır.
+## 3. Üçüncü Taraf Hizmetleri
 
-### 3.2. Kullanım İzni
-Size, uygulamayı kişisel ve ticari olmayan amaçlarla kullanma izni verilir. Uygulamayı kopyalama, değiştirme veya dağıtma hakkınız yoktur.
+Uygulama, aşağıdaki üçüncü taraf hizmetlerini/özelliklerini kullanabilir:
 
-## 4. Üçüncü Taraf Hizmetleri
+- Reklam gösterimi için Google AdMob
+- Cihazın yerleşik paylaşım altyapısı (kopyalama, paylaşma, yazdırma/PDF gibi kullanıcı eylemleri)
 
-Uygulama, aşağıdaki üçüncü taraf hizmetlerini kullanır:
-- Döviz kurları API'leri (para birimi dönüştürücü için)
-- Kripto para fiyat API'leri (kripto para dönüştürücü için)
+Bu servisler kendi şartlarına ve politikalarına tabidir.
 
-Bu hizmetlerin kendi kullanım şartları ve gizlilik politikaları vardır.
+## 4. Fikri Mülkiyet
 
-## 5. Hizmet Kesintileri
+Uygulama ve içeriği telif hakları ve diğer fikri mülkiyet mevzuatı ile korunur. Bu Şartlar size, Uygulamayı kişisel kullanım kapsamında çalıştırma hakkı verir; mülkiyet devri sağlamaz.
 
-Uygulama, bakım, güncelleme veya teknik sorunlar nedeniyle geçici olarak kullanılamayabilir. Bu durumlardan sorumlu değiliz.
+## 5. Güncellemeler ve Hizmet Kesintileri
 
-## 6. Uygulama Güncellemeleri
+- Uygulama zaman zaman güncellenebilir.
+- Bakım, güncelleme veya teknik nedenlerle geçici kesintiler yaşanabilir.
 
-Uygulamayı zaman zaman güncelleyebiliriz. Güncellemeler otomatik olarak yüklenebilir veya manuel güncelleme gerekebilir.
+## 6. Şartlardaki Değişiklikler
 
-## 7. Hizmetin Sonlandırılması
+Bu Şartları zaman zaman güncelleyebiliriz. Güncel sürüm bu dosyada yayımlanır.
 
-Uygulamayı herhangi bir zamanda, herhangi bir nedenle sonlandırma hakkımız saklıdır.
+## 7. İletişim
 
-## 8. Değişiklikler
-
-Bu Şartları zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayınlandığında geçerli olacaktır.
-
-## 9. Yasal Uyumluluk
-
-Bu Şartlar, yerel yasalara uygun olarak yorumlanmalıdır. Herhangi bir hüküm geçersiz sayılırsa, diğer hükümler geçerliliğini korur.
-
-## 10. İletişim
-
-Hizmet Şartları hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
-- E-posta: bahadir.b.bekdemir@gmail.com
-
-## 11. Kabul
-
-Uygulamayı kullanarak, bu Hizmet Şartlarını kabul etmiş sayılırsınız. Kabul etmiyorsanız, lütfen uygulamayı kullanmayın.
-
----
-
-**Not:** Bu Hizmet Şartları, Google Play Store'un gereksinimlerine uygun olarak hazırlanmıştır.
+Sorular için:
+- E‑posta: bahadir.b.bekdemir@gmail.com
 
