@@ -1,67 +1,71 @@
 # Gizlilik Politikası
 
-**Son Güncelleme:** 2024
+**Son Güncelleme:** 27 Aralık 2025
 
-Bu Gizlilik Politikası, Hesap Rehberim uygulamasının ("Uygulama", "Biz", "Bizim") kullanıcılarının ("Kullanıcı", "Siz", "Sizin") kişisel bilgilerini nasıl topladığını, kullandığını ve koruduğunu açıklar.
+Bu Gizlilik Politikası, Hesap Rehberim uygulamasının ("Uygulama") verileri nasıl işlediğini açıklar.
 
-## 1. Toplanan Bilgiler
+## 1. Kapsam
 
-### 1.1. Yerel Olarak Saklanan Veriler
-Uygulama, cihazınızda yerel olarak aşağıdaki bilgileri saklar:
+- Uygulama, hesap makinesi ve çeşitli dönüştürücü araçlar sunar.
+- Uygulama içinde hesap oluşturma (isim/e‑posta/telefon) özelliği yoktur.
+- Uygulama, bazı ekranlarda reklam gösterebilir (Google AdMob).
+
+## 2. Uygulamanın İşlediği Veriler
+
+### 2.1. Cihazda Yerel Olarak Saklanan Veriler
+Uygulama, deneyimi iyileştirmek için bazı verileri yalnızca cihazınızda saklayabilir:
+
 - Tema tercihleri
-- Hesaplama geçmişi
-- Favori dönüştürücü araçları
+- Favori araçlar ve kullanım sayıları
+- Hesaplama/dönüştürme geçmişi
 - Uygulama ayarları
 
-Bu bilgiler sadece cihazınızda saklanır ve hiçbir sunucuya gönderilmez.
+Bu veriler cihaz depolamasında (örn. `AsyncStorage`) tutulur. Uygulama tarafından ayrıca bir şifreleme uygulanmaz; ancak cihazınızın işletim sistemi düzeyindeki güvenlik/şifreleme özellikleri devrede olabilir.
 
-### 1.2. İnternet Bağlantısı
-Uygulama, aşağıdaki özellikler için internet bağlantısı kullanır:
-- Para birimi dönüştürücü (gerçek zamanlı döviz kurları)
-- Kripto para dönüştürücü (gerçek zamanlı kripto para fiyatları)
+### 2.2. Kullanıcı Tarafından Başlatılan Paylaşımlar
+Bazı araçlarda sonuçları panoya kopyalama veya paylaşma (örn. WhatsApp/Paylaş menüsü, PDF) seçenekleri bulunabilir. Bu işlemler:
 
-Bu özellikler için yapılan API istekleri, sadece döviz kurları ve kripto para fiyatlarını almak için kullanılır. Kişisel bilgileriniz bu isteklere dahil edilmez.
+- Yalnızca siz başlattığınızda gerçekleşir
+- Paylaşılan içeriği Uygulama tarafına geri göndermez
+- İçeriği, seçtiğiniz üçüncü taraf uygulama/servislerle paylaşır
 
-### 1.3. Toplanmayan Bilgiler
-Uygulama şunları toplamaz:
-- Kişisel kimlik bilgileri (isim, e-posta, telefon numarası)
-- Konum bilgileri
-- Cihaz kimliği
-- Diğer kişisel veriler
+### 2.3. Reklamlar (Google AdMob)
+Uygulama, Google AdMob aracılığıyla reklam gösterebilir. Reklam gösterimi sırasında Google/AdMob, kendi politikaları kapsamında şu tür verileri işleyebilir:
 
-## 2. Verilerin Kullanımı
+- Reklam kimliği (Advertising ID) gibi cihaz tanımlayıcıları
+- IP adresi ve yaklaşık konum (örn. ülke/şehir düzeyi)
+- Cihaz/işletim sistemi bilgileri
+- Reklam etkileşimleri (gösterim/tıklama gibi)
 
-Toplanan veriler sadece aşağıdaki amaçlar için kullanılır:
-- Uygulama tercihlerinizi hatırlamak
-- Hesaplama geçmişinizi saklamak
-- Uygulama deneyiminizi iyileştirmek
+Daha fazla bilgi:
+- [Google Gizlilik Politikası](https://policies.google.com/privacy)
+- [Reklam Teknolojileri ve Veri Kullanımı](https://policies.google.com/technologies/ads)
 
-## 3. Verilerin Paylaşımı
+Not: Uygulama geliştiricisi olarak biz, AdMob’un topladığı verileri doğrudan kontrol etmeyebiliriz. Kişiselleştirilmiş reklam tercihleri, cihazınızın reklam ayarları üzerinden yönetilebilir (örn. reklam kimliğini sıfırlama).
 
-Uygulama, topladığı verileri üçüncü taraflarla paylaşmaz. Tüm veriler cihazınızda yerel olarak saklanır.
+## 3. Toplamadığımız Veriler
 
-## 4. Veri Güvenliği
+Uygulama, kendi tarafımızdan (doğrudan) şu tür verileri toplamayı hedeflemez:
 
-Uygulama, verilerinizi güvende tutmak için endüstri standardı güvenlik önlemleri kullanır. Tüm veriler cihazınızda şifrelenmiş olarak saklanır.
+- Ad, soyad, e‑posta, telefon gibi kimlik bilgileri
+- Hassas konum (GPS)
+- Cihazınızdaki kişisel dosyaların içeriği
+
+## 4. Saklama Süresi
+
+- Yerel veriler, siz silene kadar veya uygulamayı kaldırana kadar cihazınızda kalabilir.
+- Uygulama içinden “önbellek/temizlik” benzeri seçenekler varsa, yerel veriler bu şekilde silinebilir.
 
 ## 5. Çocukların Gizliliği
 
-Uygulama 13 yaş altındaki çocuklardan bilerek kişisel bilgi toplamaz. Eğer bir ebeveyn veya vasi, çocuğunuzun bize kişisel bilgi verdiğini fark ederse, lütfen bizimle iletişime geçin.
+Uygulama, 13 yaş altındaki çocuklardan bilerek kişisel veri toplamayı hedeflemez.
 
-## 6. Gizlilik Politikası Değişiklikleri
+## 6. Değişiklikler
 
-Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayınlandığında geçerli olacaktır. Önemli değişiklikler için size bildirim gönderebiliriz.
+Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Güncel sürüm bu dosyada yayımlanır.
 
 ## 7. İletişim
 
-Gizlilik Politikamız hakkında sorularınız varsa, lütfen bizimle iletişime geçin:
-- E-posta: bahadir.b.bekdemir@gmail.com
-
-## 8. Yasal Haklarınız
-
-Yerel veri koruma yasalarına göre, verilerinize erişim, düzeltme, silme veya taşıma hakkınız vardır. Bu haklarınızı kullanmak için lütfen bizimle iletişime geçin.
-
----
-
-**Not:** Bu uygulama, Google Play Store'un Gizlilik Politikası gereksinimlerine uygun olarak hazırlanmıştır.
+Sorular için:
+- E‑posta: bahadir.b.bekdemir@gmail.com
 
